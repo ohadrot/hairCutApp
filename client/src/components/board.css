@@ -1,0 +1,18 @@
+.header-of-Page{
+    display: flex;
+    justify-content: space-around;
+}
+.switchMonthBtn{
+    margin-top: 130px;
+    right: 45%;
+    position: absolute;
+    
+}
+.nextAppWindow{
+    margin-left: 33%;
+}
+/* .year{
+    position: absolute;
+    right: 49%;
+    top: 25%;
+} */

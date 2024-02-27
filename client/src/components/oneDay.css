@@ -1,0 +1,18 @@
+.oneDay{
+    border: 3px solid black;
+    height: 8em;
+    width: 8em;
+}
+
+.allDays{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    width: 80%;
+}
+.circle{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: rgb(135, 237, 135);
+}
